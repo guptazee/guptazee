@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guptazee
 - 👀 I’m interested in being full stack developer 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on various projects on python
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on various projects on web development
 - 📫 How to reach me @ mrsauravkr11@gmail.com
 
 <!---
