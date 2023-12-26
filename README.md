@@ -14,21 +14,14 @@ I'm a Web Developer based in India. I'm working on myself to become full satck d
 - MongoDb
 
 ## 🚀 My Projects
-1. [Project 1 Name] - Brief description.
-   - [Link to Project 1]
-   - [Any other relevant information]
-
-2. [Project 2 Name] - Brief description.
-   - [Link to Project 2]
-   - [Any other relevant information]
+1. Sample Site - I reecntly learned html css and javascript,so just a simple project to practise my new skills
+   - (https://github.com/guptazee/samplesite)
+   - Its just a basic wesite
 
 ## 📫 How to Reach Me
 - Mrsauravkr2@gmail.com
-- [LinkedIn Profile]
-- [Twitter Handle]
 
-## ⚡ Fun Fact
-[Share a fun or interesting fact about yourself.]
+
 
 Thanks for visiting my profile! 😄
 
